@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset>
+<url>
+<loc><![CDATA[http://www.027abl.com]]></loc>
+<lastmod>{dede:arclist row=1 titlelen=24 orderby=pubdate}
+[field:pubdate function=strftime('%Y-%m-%d',@me)/]
+{/dede:arclist}</lastmod>
+<changefreq>always</changefreq>
+<priority>1.0</priority>
+<data>
+<display>
+<pc_url_pattern><![CDATA[http://www.027abl.com/(\w+)/(\w+)/(\w+).html]]></pc_url_pattern>
+<html5_url_pattern><![CDATA[http://m.027abl.com/${1}/${2}/${3}.html]]></html5_url_pattern>
+</display>
+</data>
+</url>
+</urlset>
